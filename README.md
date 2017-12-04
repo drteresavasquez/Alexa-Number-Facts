@@ -1,4 +1,4 @@
-# alexa-number-facts
+# Alexa Number Facts
 
 App that allows user to ask Alexa facts and trivia about specific numbers.
 
